@@ -3,7 +3,7 @@
 int main()
 {
 	int tose=0;
-	int _2tose=0;
+	int _2tose=0;//变量名不能以数字开头 
 	int tose2=0;
 	tose=10;
 	_2tose=2*tose;
