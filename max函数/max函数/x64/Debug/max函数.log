@@ -1,3 +1,0 @@
-﻿  test.c
-D:\GitHub\C_CODE\max函数\max函数\test.c(10,8): warning C4013: “Max”未定义；假设外部返回 int
-  max函数.vcxproj -> D:\GitHub\C_CODE\max函数\x64\Debug\max函数.exe
